@@ -1,0 +1,5 @@
+Step: 0 with Validation loss: 10.9490
+Step: 2 with Validation loss: 9.1400
+Step: 4 with Validation loss: 8.8943
+Step: 6 with Validation loss: 8.4588
+Step: 8 with Validation loss: 8.3299
